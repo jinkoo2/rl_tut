@@ -1,0 +1,58 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+VENV/
+
+# Distribution/Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+lib/
+lib64/
+parts/
+var/
+sdist/
+wheels/
+*.manifest
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.pytest_cache/
+
+# PyCharm project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+*.envrc
+venv.bak/
+
+# Ignore all files and folders starting with '_'
+_*
+
